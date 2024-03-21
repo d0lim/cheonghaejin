@@ -1,4 +1,4 @@
-module silkroad-server
+module cheonghaejin-server
 
 go 1.20
 
